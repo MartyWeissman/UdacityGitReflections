@@ -1,6 +1,6 @@
 Reflections on lesson 1:
 
-1.  
+1.  What was this question?
 
 Diff was helpful, because it took out all the clutter and only showed the differences between versions.
 
