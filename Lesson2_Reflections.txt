@@ -1,0 +1,9 @@
+Lesson 2 reflections
+
+1.  What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a .git directory with metadata.  This will allow Git to perform version control on the repository.
+
+2.  How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's intermediate between the working directory and the repository.  It offers the ability to commit only some of the files to the repository, I think.

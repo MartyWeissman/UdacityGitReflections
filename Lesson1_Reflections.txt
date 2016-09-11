@@ -1,0 +1,28 @@
+Reflections on lesson 1:
+
+1.  
+
+Diff was helpful, because it took out all the clutter and only showed the differences between versions.
+
+2.  How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I could find and re-use code snippets, even if they weren't useful in an old version.
+I can look back for alternative approaches to a problem.
+I could more easily collaborate with others, which increases efficiency in many ways.
+It works well with modularization.
+
+3.  Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Google docs is meant for files that are unrelated to each other, while programmers typically have many files that interact.
+
+4.  How can you use the commands git log and git diff to view the history of files?
+
+Git log will show me the full history of commits for a repository of file.  Git diff will compare two commits within a repository.  It's useful to use Git log to get the ID numbers and locate the two commits for comparison, for later use of Git diff.
+
+5.  How might using version control make you more confident to make changes that could break something?
+
+It would be ok to break something, if I'm confident I can go back in time and restore old versions.
+
+6.  Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like it to organize the files for my book.  Also to collaborate on creating a Python-based templating system for randomized quizzes.
